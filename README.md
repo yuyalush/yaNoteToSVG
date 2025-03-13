@@ -1,0 +1,2 @@
+# yaNoteToSVG
+yaNoteをSVG形式でダウンロードするためのEdge機能拡張
